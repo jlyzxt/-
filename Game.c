@@ -13,6 +13,7 @@
 //#include <unistd.h>
 #include "Game.h"
 #include "GameLib.h"
+ 
 
  /* 当前的游戏状态 */
 enum GameStatus CurrGameStatus = GameSplashScreen;
